@@ -1,0 +1,14 @@
+Package: com.IAmDito.DuckRacer
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: IAmDito
+Filename: Files/DuckRacer.deb
+Size: 4124380
+MD5sum: 67faf43aafb24cd700b30000eaedd89f
+SHA1: 94b9fc9a57661984ea2d9d795308ca102110c9a8
+SHA256: 05c21962c8ce2962063829cccf585066db8664ae17df47b5c62a74e7eee723e3
+Section: Game
+Description: Racing Ducks and Foxes.
+Author: IAmDito
+Name: Duck Racer
+
