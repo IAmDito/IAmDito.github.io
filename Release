@@ -1,0 +1,8 @@
+Origin: Dito's repo
+Label: Dito's repo
+Suite: stable
+Version: 1.0
+Codename: ditorepo
+Architectures: iphoneos-arm
+Components: main
+Description: Dito's Cydia Repository
