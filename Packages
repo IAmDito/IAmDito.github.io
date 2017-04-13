@@ -12,3 +12,19 @@ Description: Racing Ducks and Foxes.
 Author: IAmDito
 Name: Duck Racer
 
+Package: com.ditos.musicautoplay
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: Dito
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: Files/com.ditos.musicautoplay_0.0.1-2+debug_iphoneos-arm.deb
+Size: 3482
+MD5sum: a7b5542eff52e3fdf74ced0e08c64d04
+SHA1: 156728ea43630635afdf387e46c76e7a028b2462
+SHA256: 890577a99fbc7743d230261e2afe3d6f76e6b5c411e5a93d0e39ad142a29aa55
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Dito
+Name: AppPopUp
+
