@@ -1,0 +1,17 @@
+.intro {
+	background-image: url("band.jpg");
+	padding: 10px;
+
+}
+
+.header {
+	text-align: center;
+	font-family: Helvetica;
+	padding-bottom: 10px;
+}
+
+p{
+	font-family: Arial, serif;
+	text-align: center;
+	line-height: 1.1em;
+}
